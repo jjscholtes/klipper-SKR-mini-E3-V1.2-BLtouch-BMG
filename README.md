@@ -3,7 +3,7 @@
 My copy paste effort to get my ender 3 with SKR mini E3 V1.2 to work with Klipper.
 
 Other custom parts I added to the printer and config are:
-- BLtouch clone
+- BLtouch clone using the Z header on the board
 - Trianglelab BMG mini clone
 
 Running on:
