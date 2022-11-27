@@ -7,6 +7,7 @@ Other custom parts I added to the printer and config are:
 - Trianglelab BMG mini clone
 
 Running on:
+- Ender 3 V1 with LCD Matrix screen
 - Hardware: RPI 4 2GB
 - OS: mainsailos v2.4.0
 - Klipper version: v0.10.0-639-g1b56a63a
